@@ -6,7 +6,12 @@ IUMA fue un sito web creado por Jeff Patterson, Jon Luini y Rob Lord, tres estud
 
 Esta web fue fundada para que los artistas sin contrato pudieran subir su música y compartirla con sus fans. 
 IUMA es reconocida como la cuna de la música en linea por muchos.
-![IUMA](
+
+##Reavertura
+A fines de mayo de 2012, Jason Scott Sadofsky (fundador de Textfiles.com ) anunció que gran parte de la colección de IUMA se ha vuelto a publicar a través de Internet Archive . John Gilmore, cofundador de Electronic Frontier Foundation (EFF), logró recuperar los archivos sobrevivientes antes de su cierre. [6]
+
+![IUMA](https://github.com/MarcosYelamos/SMX2-M8UF1A1-HistoriaWeb-1993-Archivo-de-musica-clandestina-de-Internet-IUMA-MarcosYelamos/blob/main/iuma.png)
+
 
 
 
