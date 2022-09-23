@@ -10,7 +10,7 @@ IUMA es reconocida como la cuna de la música en linea por muchos.
 
 ## Reavertura
 
-A fines de mayo de 2012, Jason Scott Sadofsky (fundador de Textfiles.com ) anunció que gran parte de la colección de IUMA se ha vuelto a publicar a través de Internet Archive . John Gilmore, cofundador de Electronic Frontier Foundation (EFF), logró recuperar los archivos sobrevivientes antes de su cierre. [6]
+A finales de  mayo de 2012, Jason Scott Sadofsky anunció que gran parte de la colección de IUMA se ha vuelto a publicar a través de Internet Archive  gracias a que John Gilmore habia recuperado los archivos sobrevivientes antes de su cierre. 
  
 ![IUMA](iuma.png)
 
