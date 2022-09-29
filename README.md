@@ -2,7 +2,7 @@
 # Archivo de música clandestina de Internet (IUMA)
 
 ## Que fue? 
-IUMA fue un sito web creado por Jeff Patterson, Jon Luini y Rob Lord, tres estudiantes de la Universidad de California en Santa Cruz.
+IUMA fue un sito web creado por Jeff Patterson, Jon Luini y Rob Lord en 1993, eran tres estudiantes de la Universidad de California en Santa Cruz.
 
 ## Objetivo de la web
 Esta web fue fundada para que los artistas sin contrato pudieran subir su música y compartirla con sus fans. 
